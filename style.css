@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    border-radius: 15px;
+    height: 328px;
+
+    padding: 20px;
+}
+
+.heading {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-size: 33px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.paragraph {
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.custom-button {
+    color: #ff9f00;
+    background-color: white;
+    height: 40px;
+    width: 140px;
+    border-radius: 80px;
+    border-width: 0;
+    font-family: Roboto;
+}
+
+.sony-section-modal-title {
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.products-card-modal-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.products-card-modal-list-item {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.inside-heading {
+    font-weight: bold;
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.sony-text {
+    font-weight: 300;
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.bg-container-second {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    border-radius: 15px;
+    height: 328px;
+    padding: 20px;
+}
+
+.menu-item-link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+
+}
